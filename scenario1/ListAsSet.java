@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class ChangingBehaviourOfList<Integer> extends ArrayList
+class ChangingBehaviourOfList extends ArrayList
 {
     @Override
     public boolean add(Object a)
